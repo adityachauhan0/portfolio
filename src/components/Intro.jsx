@@ -37,7 +37,7 @@ function Intro() {
                rel="noreferrer noopener"
             >
                roronua
-            </a>{' '}  (Rating: 1466) | Github: {' '}
+            </a>{' '}  (Rating: 1745) | Github: {' '}
             <a
                href="https://github.com/adityachauhan0"
                target="_blank"
